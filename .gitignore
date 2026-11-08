@@ -1,0 +1,20 @@
+# Compiled class files and build artifacts
+*.class
+build/
+bin/
+target/
+.metadata/
+src/main/webapp/WEB-INF/classes/
+
+# Eclipse temporary / local settings
+.recommenders/
+
+# Log and OS files
+*.log
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# Environment / local credential files
+.env
+*.local
